@@ -20,6 +20,8 @@
 
 - [CSS-Bulma](https://scrimba.com/learn/bulma): Bulma is a free, open source CSS framework based on Flexbox. You can learn Bulma CSS at Scrimba in a 1 hour lesson that includes 14 short videos.
 
+- [HTML Dog](https://www.htmldog.com/references/css/properties/) : A website that shows valid properties belonging to css. Every property is sorted according to categories like texts and fonts , colors and backgrounds etc.They have tutorials too. You can refer this for HTML and JS also.
+
 ## CSS Games
 
 - [CSS diner](https://flukeout.github.io/): A fun in-browser game to help you learn and practice CSS selectors.
